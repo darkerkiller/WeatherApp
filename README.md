@@ -2,10 +2,6 @@
 
 一个基于Kotlin开发的Android天气查询应用，使用OkHttp进行网络请求，实现单城市单天天气信息展示。
 
-## 📱 应用截图
-
-![应用界面](https://via.placeholder.com/300x600/E3F2FD/1976D2?text=Weather+App)
-
 ## ✨ 主要功能
 
 - 🔍 **城市天气查询**: 支持输入城市名称查询实时天气
@@ -67,7 +63,3 @@ app/
    - 访问 [OpenWeatherMap](https://openweathermap.org/api)
    - 注册账号并获取免费API密钥
    - 在 `WeatherService.kt` 中替换 `YOUR_API_KEY_HERE`
-
-3. **导入项目**
-   - 在Android Studio中选择 "Open an existing project"
-   -
